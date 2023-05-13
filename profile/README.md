@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Welcome To Amlak.
+###Welcome To Wisdom.
